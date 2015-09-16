@@ -1,0 +1,7 @@
+008-0682c00	TKD 37-0975a	buddhist/K-koreana/37-tif/0900-0999/37_0975_A.TIF
+008-0682c19	TKD 37-0975b	buddhist/K-koreana/37-tif/0900-0999/37_0975_B.TIF
+008-0682c40	TKD 37-0975c	buddhist/K-koreana/37-tif/0900-0999/37_0975_C.TIF
+009-0683c03	TKD 37-0976a	buddhist/K-koreana/37-tif/0900-0999/37_0976_A.TIF
+009-0683c29	TKD 37-0976b	buddhist/K-koreana/37-tif/0900-0999/37_0976_B.TIF
+009-0683b00	T 009-0683b	buddhist/T-taisho/T32/06/T32-0683.png
+009-0683c00	T 009-0683c	buddhist/T-taisho/T32/06/T32-0683.png

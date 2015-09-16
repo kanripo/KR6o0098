@@ -1,0 +1,6 @@
+017-0689c00	TKD 37-0985a	buddhist/K-koreana/37-tif/0900-0999/37_0985_A.TIF
+017-0689c20	TKD 37-0985b	buddhist/K-koreana/37-tif/0900-0999/37_0985_B.TIF
+018-0690a15	TKD 37-0985c	buddhist/K-koreana/37-tif/0900-0999/37_0985_C.TIF
+018-0690b02	TKD 37-0986a	buddhist/K-koreana/37-tif/0900-0999/37_0986_A.TIF
+018-0690a00	T 018-0690a	buddhist/T-taisho/T32/06/T32-0690.png
+018-0690b00	T 018-0690b	buddhist/T-taisho/T32/06/T32-0690.png
