@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.689162
+#+DATE: 2015-08-30 21:00:52.975078
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_016-0688a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《大宗地玄文本論》卷第十六¶
+《大宗地玄文本論》卷第十六¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-31出離繫縛地清白解脫道路大決擇分
-:PROPERTIES:
-:head: 出離繫縛地清白解脫道路大決擇分¶
-第三十一
-:END:
-¶
+出離繫縛地清白解脫道路大決擇分¶
+第三十一¶
 
 如是。已說最極廣大俱行山王無盡海海。大¶
 決擇分。次當說出離繫縛地清白解脫道路¶
@@ -117,13 +112,9 @@
 畏。其心自在決定常住大安樂。漸漸增長常¶
 功德海。乃至廣說故。¶
 
-32解脫山王根本地地無礙自在大決擇分
-:PROPERTIES:
-:head: 解脫山王根本地地無礙自在大決擇分
+解脫山王根本地地無礙自在大決擇分
 <pb:KR6o0098_T_016-0689a>¶
-第三十二
-:END:
-¶
+第三十二¶
 
 如是已說出離繫縛地清白解脫道路大決擇¶
 分。次當說解脫山王根本地地無礙自在大¶

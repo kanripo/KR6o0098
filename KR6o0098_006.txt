@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.483929
+#+DATE: 2015-08-30 21:00:52.780012
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_006-0678b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 《大宗地玄文本論》卷第六¶
+《大宗地玄文本論》卷第六¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-11無盡無窮塵塵數量道路大決擇分
-:PROPERTIES:
-:head: 無盡無窮塵塵數量道路大決擇分¶
-第十一
-:END:
-¶
+無盡無窮塵塵數量道路大決擇分¶
+第十一¶
 
 如是已說大龍王重重廣海無盡大藏大決擇¶
 分。次當說無盡無窮塵塵數量道路大決擇¶
@@ -309,12 +304,8 @@
 足履地地法藏中。有十種殊勝轉轉增長倍¶
 倍具足圓滿廣大法門海會。乃至廣說故。¶
 
-12不可思議不可稱量俱俱微塵本大山王大決擇分
-:PROPERTIES:
-:head: 不可思議不可稱量俱俱微塵本大山王¶
-大決擇分第十二
-:END:
-¶
+不可思議不可稱量俱俱微塵本大山王¶
+大決擇分第十二¶
 
 如是已說無盡無窮塵塵數量道路大決擇¶
 分。次當說不可思議不可稱量俱俱微塵本¶

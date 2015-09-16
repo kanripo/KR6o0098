@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.550569
+#+DATE: 2015-08-30 21:00:52.846482
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_009-0683a> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《大宗地玄文本論》卷第九¶
+《大宗地玄文本論》卷第九¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-17獨一無二山王自在道路大決擇分
-:PROPERTIES:
-:head: 獨一無二山王自在道路大決擇分¶
-第十七
-:END:
-¶
+獨一無二山王自在道路大決擇分¶
+第十七¶
 
 如是已說獨地獨天一種廣大無二山王大決¶
 擇分。次當說獨一無二山王自在道路大決¶
@@ -64,12 +59,8 @@
 位起至五百量故。無窮盡者。法藏之海極廣¶
 大故。乃至廣說故。¶
 
-18摩訶無二山王最勝高頂一地大決擇分
-:PROPERTIES:
-:head: 摩訶無二山王最勝高頂一地大決擇分¶
-第十八
-:END:
-¶
+摩訶無二山王最勝高頂一地大決擇分¶
+第十八¶
 
 如是已說獨一無二山王自在道路大決擇¶
 分。次當說摩訶無二山王最勝高頂一地大¶

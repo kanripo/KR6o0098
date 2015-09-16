@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.775216
+#+DATE: 2015-08-30 21:00:53.049329
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_020-0692b> 
 #+PROPERTY: JUAN 20
 ¶
-
- 《大宗地玄文本論》卷第二十¶
+《大宗地玄文本論》卷第二十¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-39現示本因決定證成除疑生信大決擇分
-:PROPERTIES:
-:head: 現示本因決定證成除疑生信大決擇分¶
-第三十九
-:END:
-¶
+現示本因決定證成除疑生信大決擇分¶
+第三十九¶
 
 如是已說校量過患呵責誹謗現示罪業大決¶
 擇分。次當說現示本因決定證成除疑生信¶
@@ -203,11 +198,7 @@
 #+END_VERSE
 」¶
 
-40勸持流通發大願海大決擇分
-:PROPERTIES:
-:head: 勸持流通發大願海大決擇分第四十
-:END:
-¶
+勸持流通發大願海大決擇分第四十¶
 
 如是已說現示本因決定證成除疑生信大決¶
 擇分。次當說勸持流通發大願海大決擇分。¶

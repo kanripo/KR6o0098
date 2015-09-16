@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.439121
+#+DATE: 2015-08-30 21:00:52.734979
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_004-0674a> ¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《大宗地玄文本論》卷第四¶
+《大宗地玄文本論》卷第四¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-7大海部藏道路大決擇分
-:PROPERTIES:
-:head: 大海部藏道路大決擇分第七
-:END:
-¶
+大海部藏道路大決擇分第七¶
 
 如是已說獨一山王摩訶山王大決擇分。次當¶
 說大海部藏道路大決擇分。其相云何。偈曰。¶
@@ -305,11 +300,7 @@
 本性轉。無前後故。是名為二。如前所說種種¶
 諸門。同名異物。住思應觀。¶
 
-8深里出興地藏大龍王大決擇分
-:PROPERTIES:
-:head: 深里出興地藏大龍王大決擇分第八
-:END:
-¶
+深里出興地藏大龍王大決擇分第八¶
 
 如是已說大海部藏道路大決擇分。次當說¶
 深里出興地藏大龍王大決擇分。其相云何。¶

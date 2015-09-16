@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.463303
+#+DATE: 2015-08-30 21:00:52.756921
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_005-0677a> ¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《大宗地玄文本論》卷第五¶
+《大宗地玄文本論》卷第五¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-9深里出興地藏大龍王道路大決擇分
-:PROPERTIES:
-:head: 深里出興地藏大龍王道路大決擇分¶
-第九
-:END:
-¶
+深里出興地藏大龍王道路大決擇分¶
+第九¶
 
 如是已說深里出興地藏大龍王大決擇分。¶
 次當說深里出興地藏大龍王道路大決擇¶
@@ -144,11 +139,7 @@
 迴持。應廣通達。如偈此本法門中亦有金剛¶
 位依位有三門謂上中下門故。¶
 
-10大龍王重重廣海無盡大藏大決擇分
-:PROPERTIES:
-:head: 大龍王重重廣海無盡大藏大決擇分第十
-:END:
-¶
+大龍王重重廣海無盡大藏大決擇分第十¶
 
 如是已說深里出興地藏大龍王道路大決¶
 擇分。次當說大龍王重重廣海無盡大藏大¶

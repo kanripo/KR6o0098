@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.525010
+#+DATE: 2015-08-30 21:00:52.822150
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_008-0681c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 8
 ¶
 ¶
-
- 《大宗地玄文本論》卷第八¶
+《大宗地玄文本論》卷第八¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-15獨地非亂一定一定道路大決擇分
-:PROPERTIES:
-:head: 獨地非亂一定一定道路大決擇分第十¶
-五
-:END:
-¶
+獨地非亂一定一定道路大決擇分第十¶
+五¶
 
 如是已說一切虛空一切微塵數量高王大決¶
 擇分。次當說獨地非亂一定一定。道路大決¶
@@ -137,13 +132,9 @@
 言別者。四種俱輪地故。言總者。四種俱輪自¶
 在轉故。乃至廣說故。¶
 
-16獨地獨天一種廣大無二山王大決擇分
-:PROPERTIES:
-:head: 獨地獨天一種廣大無二山王大決擇分
+獨地獨天一種廣大無二山王大決擇分
 <pb:KR6o0098_T_008-0682c>¶
-第十六
-:END:
-¶
+第十六¶
 
 如是已說獨地非亂一定一定道路大決擇¶
 分。次當說獨地獨天一種廣大無二山王大¶

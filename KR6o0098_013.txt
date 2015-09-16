@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.625493
+#+DATE: 2015-08-30 21:00:52.918228
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_013-0686a> ¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《大宗地玄文本論》卷第十三¶
+《大宗地玄文本論》卷第十三¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-25摩訶本地具足品藏非患道路大決擇分
-:PROPERTIES:
-:head: 摩訶本地具足品藏非患道路大決擇分¶
-第二十五
-:END:
-¶
+摩訶本地具足品藏非患道路大決擇分¶
+第二十五¶
 
 如是已說一種功德摩訶本地明白離惡品藏¶
 大決擇分。次當說摩訶本地具足品藏非患¶
@@ -85,12 +80,8 @@
 言具面者。所有諸道一時行故。乃至廣說¶
 故。¶
 
-26摩訶寶輪王廣大圓滿無上地地大決擇分
-:PROPERTIES:
-:head: 摩訶寶輪王廣大圓滿無上地地大決擇¶
-分第二十六
-:END:
-¶
+摩訶寶輪王廣大圓滿無上地地大決擇¶
+分第二十六¶
 
 如是已說摩訶本地具足品藏非患道路大決¶
 擇分。次當說摩訶寶輪王廣大圓滿無上地¶

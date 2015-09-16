@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.749989
+#+DATE: 2015-08-30 21:00:53.028581
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_019-0690b> 
 #+PROPERTY: JUAN 19
 ¶
-
- 《大宗地玄文本論》卷第十九¶
+《大宗地玄文本論》卷第十九¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-37校量功德讚歎信行現示利益大決擇分
-:PROPERTIES:
-:head: 校量功德讚歎信行現示利益大決擇分¶
-第三十七
-:END:
-¶
+校量功德讚歎信行現示利益大決擇分¶
+第三十七¶
 
 如是已說大不可思議重重不可稱量阿說本¶
 王大決擇分。次當說校量功德讚歎信行現¶
@@ -239,12 +234,8 @@
 #+END_VERSE
 」¶
 
-38校量過患呵責誹謗現示罪業大決擇分
-:PROPERTIES:
-:head: 校量過患呵責誹謗現示罪業大決擇分第三¶
-十八
-:END:
-¶
+校量過患呵責誹謗現示罪業大決擇分第三¶
+十八¶
 
 如是已說校量功德讚歎信行現示利益大決¶
 擇分。次當說校量過患呵責誹謗現示罪業
