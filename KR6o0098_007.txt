@@ -1,29 +1,24 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.504735
+#+DATE: 2015-08-30 21:00:52.056242
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@MING
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_007-0680c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 《大宗地玄文本論》卷第七¶
+《大宗地玄文本論》卷第五第六同卷¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-13不可思議俱俱微塵一切山王道路大決擇分
-:PROPERTIES:
-:head: 不可思議俱俱微塵一切山王道路大決¶
-擇分第十三
-:END:
-¶
+不可思議俱俱微塵一切山王道路大決¶
+擇分第十三¶
 
 如是已說不可思議不可稱量俱俱微塵本大¶
 山王大決擇分。次當說不可思議俱俱微塵¶
@@ -99,12 +94,8 @@
 中不可說無量品。第十轉中不可思議無量¶
 品。乃至廣說故。¶
 
-14一切虛空一切微塵數量高王大決擇分
-:PROPERTIES:
-:head: 一切虛空一切微塵數量高王大決擇分¶
-第十四
-:END:
-¶
+一切虛空一切微塵數量高王大決擇分¶
+第十四¶
 
 如是已說不可思議俱俱微塵一切山王道路¶
 大決擇分。次當說一切虛空一切微塵數量¶
