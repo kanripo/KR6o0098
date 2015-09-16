@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大宗地玄文本論
+#+DATE: 2015-08-30 21:00:51.146658
+#+PROPERTY: JUAN 0
