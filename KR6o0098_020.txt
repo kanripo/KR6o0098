@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.775216
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_020-0692b> 
 #+PROPERTY: JUAN 20
 ¶
-
- 《大宗地玄文本論》卷第二十¶
+《大宗地玄文本論》卷第二十¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-39現示本因決定證成除疑生信大決擇分
-:PROPERTIES:
-:head: 現示本因決定證成除疑生信大決擇分¶
-第三十九
-:END:
-¶
+* 現示本因決定證成除疑生信大決擇分¶
+第三十九¶
 
 如是已說校量過患呵責誹謗現示罪業大決¶
 擇分。次當說現示本因決定證成除疑生信¶
@@ -199,15 +194,11 @@
 　我今依三十四法
 　該攝安立無餘說¶
 　因緣品類雖無量
-　而總言略說如是
+　而總言略說如是」
 #+END_VERSE
-」¶
-
-40勸持流通發大願海大決擇分
-:PROPERTIES:
-:head: 勸持流通發大願海大決擇分第四十
-:END:
 ¶
+
+* 勸持流通發大願海大決擇分第四十¶
 
 如是已說現示本因決定證成除疑生信大決¶
 擇分。次當說勸持流通發大願海大決擇分。¶
@@ -221,7 +212,7 @@
 　轉作三寶之大海
 　無非法而功德藏¶
 　非請感周遍相應
-　非勸策自然成就
+　非勸策自然成就」
 #+END_VERSE
-」¶
+¶
 《大宗地玄文本論》卷第二十

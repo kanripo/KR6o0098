@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:50.371827
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:57
 #+TITLE: 大宗地玄文本論
 #+PROPERTY: CBETA_ID T32n1669
 #+PROPERTY: ID KR6o0098
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1669
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0098_T_000-0668c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0098_T_001-0668c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1669¶
-
- 《大宗地玄文本論》卷第一¶
+No. 1669¶
+《大宗地玄文本論》卷第一¶
 ¶
 馬鳴菩薩造¶
 真諦三藏譯¶
 
-1歸依德處無邊大決擇分
-:PROPERTIES:
-:head: 歸依德處無邊大決擇分第一
-:END:
-¶
+* 歸依德處無邊大決擇分第一¶
 
 #+BEGIN_VERSE
 「　頂禮一切無餘明
@@ -33,9 +28,9 @@ No.1669¶
 　本無量數斷命品
 　與等塵塵無有法¶
 　兼不可說無所有
-　通俱非是等諸法
+　通俱非是等諸法」
 #+END_VERSE
-」¶
+¶
 
 論曰。就此二行偈中。則有八門。云何為八。一
 <pb:KR6o0098_T_001-0669a>¶
@@ -185,11 +180,7 @@ No.1669¶
 地地無盡無極法界大海門。乃至廣說故。如¶
 偈通俱非是等諸法故。¶
 
-2歸依德處因緣大決擇分
-:PROPERTIES:
-:head: 歸依德處因緣大決擇分第二
-:END:
-¶
+* 歸依德處因緣大決擇分第二¶
 
 如是已說歸依德處無邊大決擇分。次當說¶
 歸依德處因緣大決擇分。其相云何。偈曰。¶
@@ -205,9 +196,9 @@ No.1669¶
 　如是十種大因緣
 　圓滿大士乃能具¶
 　凡非境聖亦非量
-　隨分菩薩亦不能
+　隨分菩薩亦不能」
 #+END_VERSE
-」¶
+¶
 
 論曰。何因緣故歸依德處。以有十種大因緣¶
 故。而作歸依。如偈以有十種大因緣造作歸¶
